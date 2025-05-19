@@ -143,6 +143,9 @@ importers:
       sonner:
         specifier: ^1.7.1
         version: 1.7.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      sysinfo:
+        specifier: ^0.0.1
+        version: 0.0.1
       tailwind-merge:
         specifier: ^2.5.5
         version: 2.6.0
@@ -1847,6 +1850,10 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
+  sysinfo@0.0.1:
+    resolution: {integrity: sha512-CCFWB19f2377WaSzuvMFqqxiiDcYgZtx7/E1nXDcYC6sQEp1BlPlvdjnRHTvwBBV+nU1RWQ9DS5ZGLuSzTVt4g==}
+    engines: {node: '>= 0.6.18'}
+
   tailwind-merge@2.6.0:
     resolution: {integrity: sha512-P+Vu1qXfzediirmHOC3xKGAYeZtPcV9g76X+xg2FD4tYgR71ewMA35Y3sCz3zhiN/dwefRpJX0yBcgwi1fXNQA==}
 
@@ -3544,6 +3551,8 @@ snapshots:
       ts-interface-checker: 0.1.13
 
   supports-preserve-symlinks-flag@1.0.0: {}
+
+  sysinfo@0.0.1: {}
 
   tailwind-merge@2.6.0: {}
 

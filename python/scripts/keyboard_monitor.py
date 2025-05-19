@@ -13,7 +13,7 @@ import psutil
 # Add debouncing variables
 last_phone_paste_time = 0
 last_message_paste_time = 0
-DEBOUNCE_INTERVAL = 0.5  # 500ms debounce interval
+DEBOUNCE_INTERVAL = 1.0  # 1000ms debounce interval (increased from 0.5s)
 
 
 def is_admin():
@@ -23,25 +23,41 @@ def is_admin():
         return False
 
 
-def is_already_running():
-    current_process = psutil.Process()
-    for process in psutil.process_iter(['pid', 'name', 'cmdline']):
+def is_already_running() -> bool:
+    """Return True if another keyboard_monitor.py process is running."""
+    current_pid = psutil.Process().pid
+
+    for proc in psutil.process_iter(['pid', 'name', 'cmdline']):
         try:
-            if (process.info['name'] == 'python.exe' and 
-                process.info['pid'] != current_process.pid and
-                any('keyboard_monitor.py' in cmd for cmd in process.info['cmdline'] if cmd)):
+            cmdline = proc.info.get('cmdline', []) or []
+            is_same_script = any(
+                'keyboard_monitor.py' in (cmd or '')
+                for cmd in cmdline
+            )
+
+            if (
+                proc.info.get('name') == 'python.exe'
+                and proc.info.get('pid') != current_pid
+                and is_same_script
+            ):
                 return True
         except (psutil.NoSuchProcess, psutil.AccessDenied):
             continue
+
     return False
 
 
 # --- Logging setup ---
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s [%(levelname)s] %(message)s',
+    format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler(os.path.join(os.path.dirname(__file__), 'keyboard_monitor.log')),
+        logging.FileHandler(
+            os.path.join(
+                os.path.dirname(__file__),
+                'keyboard_monitor.log'
+            )
+        ),
         logging.StreamHandler()
     ]
 )
@@ -53,7 +69,9 @@ if not is_admin():
 
 # Check if another instance is running
 if is_already_running():
-    logging.error("Another instance of keyboard monitor is already running")
+    logging.error(
+        "Another monitor instance is running"
+    )
     sys.exit(1)
 
 logging.info("Script running with administrator privileges")
@@ -85,8 +103,8 @@ def paste_text(text: str):
         pyperclip.copy(text)
         logging.info("Text copied to clipboard successfully")
         
-        # Add a small delay to ensure clipboard is ready
-        time.sleep(0.1)
+        # Add a longer delay to ensure clipboard is ready
+        time.sleep(0.5)  # 500ms delay (increased from 0.1s)
         
         logging.info("Attempting to simulate Ctrl+V")
         keyboard.press_and_release('ctrl+v')
@@ -252,38 +270,36 @@ def main():
     logging.info("Configuration loaded successfully")
     logging.info("Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2")
 
+    # Check if another instance is running
+    if is_already_running():
+        logging.error("Another instance of keyboard monitor is already running")
+        sys.exit(1)
+    
+    logging.info(
+        "No other instance running, proceeding to register "
+        "hotkeys..."
+    )
+    
     # Register hotkeys
-    try:
-        logging.info("Attempting to register Ctrl+Alt+1 hotkey...")
-        keyboard.add_hotkey(
-            'ctrl+alt+1',
-            lambda: handle_phone_paste(
-                csv_path,
-                log_path,
-                phone_column,
-                current_index
-            )
+    keyboard.add_hotkey(
+        'ctrl+alt+1',
+        lambda: handle_phone_paste(
+            csv_path,
+            log_path,
+            phone_column,
+            current_index
         )
-        logging.info("Successfully registered Ctrl+Alt+1 hotkey")
-
-        logging.info("Attempting to register Ctrl+Alt+2 hotkey...")
-        keyboard.add_hotkey(
-            'ctrl+alt+2',
-            lambda: handle_message_paste(message_path)
-        )
-        logging.info("Successfully registered Ctrl+Alt+2 hotkey")
-    except Exception as e:
-        logging.error(f"Failed to register hotkeys: {str(e)}")
-        return
-
-    # Keep the script running
-    try:
-        logging.info("Entering keyboard wait loop...")
-        keyboard.wait()
-    except KeyboardInterrupt:
-        logging.info("Keyboard monitor stopped")
-    except Exception as e:
-        logging.error(f"Error in keyboard wait loop: {str(e)}")
+    )
+    logging.info("Registered Ctrl+Alt+1 hotkey")
+    
+    keyboard.add_hotkey(
+        'ctrl+alt+2',
+        lambda: handle_message_paste(message_path)
+    )
+    logging.info("Registered Ctrl+Alt+2 hotkey")
+    
+    logging.info("Entering keyboard wait loop...")
+    keyboard.wait()
 
 
 def handle_phone_paste(csv_path, log_path, phone_column, current_index):
