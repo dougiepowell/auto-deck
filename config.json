@@ -1,0 +1,8 @@
+{
+  "csv_path": "test_data/contacts.csv",
+  "log_path": "processed_numbers.txt",
+  "message_path": "test_data/message.txt",
+  "phone_column": "phone",
+  "current_index": 0,
+  "log_dir": "logs"
+} 

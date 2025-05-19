@@ -1,0 +1,35 @@
+2025-05-19 18:27:31,916 [INFO] Script running with administrator privileges
+2025-05-19 18:27:31,916 [INFO] Starting keyboard monitor...
+2025-05-19 18:27:31,916 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:27:31,917 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:27:31,917 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:27:31,917 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:27:31,918 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:28:25,359 [INFO] Script running with administrator privileges
+2025-05-19 18:28:25,360 [INFO] Starting keyboard monitor...
+2025-05-19 18:28:25,369 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:28:25,369 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:28:25,370 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:28:25,370 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:28:25,371 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:30:38,736 [INFO] Script running with administrator privileges
+2025-05-19 18:30:38,737 [INFO] Starting keyboard monitor...
+2025-05-19 18:30:38,737 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:30:38,737 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:30:38,738 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:30:38,738 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:30:38,738 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:32:03,862 [INFO] Script running with administrator privileges
+2025-05-19 18:32:03,862 [INFO] Starting keyboard monitor...
+2025-05-19 18:32:03,862 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:32:03,862 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:32:03,863 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:32:03,863 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:32:03,863 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:32:30,619 [INFO] Script running with administrator privileges
+2025-05-19 18:32:30,619 [INFO] Starting keyboard monitor...
+2025-05-19 18:32:30,620 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:32:30,620 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:32:30,620 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:32:30,620 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:32:30,621 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'

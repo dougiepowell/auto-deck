@@ -1,0 +1,1659 @@
+2025-05-17 03:07:03,124 [INFO] Starting keyboard monitor...
+2025-05-17 03:07:03,125 [INFO] Resolved path config.json to H:\AutoDeckUIv1\config.json
+2025-05-17 03:07:03,126 [INFO] Configuration loaded successfully
+2025-05-17 03:07:03,126 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:07:17,148 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:07:17,150 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:17,150 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:17,150 [ERROR] Failed to paste message
+2025-05-17 03:07:18,634 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:07:18,635 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:18,645 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:07:18,645 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:18,645 [INFO] No more phone numbers to paste
+2025-05-17 03:07:19,313 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:07:19,314 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:19,314 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:19,314 [ERROR] Failed to paste message
+2025-05-17 03:07:20,694 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:07:20,694 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:20,695 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:07:20,695 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:20,695 [INFO] No more phone numbers to paste
+2025-05-17 03:07:24,158 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:07:24,159 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:24,159 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:07:24,159 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:24,160 [INFO] No more phone numbers to paste
+2025-05-17 03:07:24,886 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:07:24,886 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:24,887 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:24,887 [ERROR] Failed to paste message
+2025-05-17 03:07:29,886 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:07:29,887 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:29,887 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:07:29,887 [ERROR] Failed to paste message
+2025-05-17 03:07:30,814 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:07:30,815 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:30,816 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:07:30,816 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:07:30,816 [INFO] No more phone numbers to paste
+2025-05-17 03:10:38,050 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:38,051 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:38,052 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:38,052 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:38,052 [INFO] No more phone numbers to paste
+2025-05-17 03:10:39,159 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:10:39,160 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:39,160 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:39,160 [ERROR] Failed to paste message
+2025-05-17 03:10:41,197 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:41,198 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:41,199 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:41,199 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:41,199 [INFO] No more phone numbers to paste
+2025-05-17 03:10:46,733 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:46,734 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:46,735 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:46,735 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:46,735 [INFO] No more phone numbers to paste
+2025-05-17 03:10:47,965 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:10:47,966 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:47,966 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:47,967 [ERROR] Failed to paste message
+2025-05-17 03:10:49,239 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:49,240 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:49,241 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:49,241 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:49,241 [INFO] No more phone numbers to paste
+2025-05-17 03:10:49,668 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:10:49,669 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:49,669 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:49,670 [ERROR] Failed to paste message
+2025-05-17 03:10:50,030 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:50,030 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:50,031 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:50,032 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:50,032 [INFO] No more phone numbers to paste
+2025-05-17 03:10:50,895 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:10:50,895 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:50,896 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:50,896 [ERROR] Failed to paste message
+2025-05-17 03:10:51,198 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:10:51,199 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:51,200 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:10:51,200 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:10:51,201 [INFO] No more phone numbers to paste
+2025-05-17 03:10:51,498 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:10:51,499 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:51,499 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:10:51,500 [ERROR] Failed to paste message
+2025-05-17 03:12:39,734 [INFO] Script running with administrator privileges
+2025-05-17 03:12:39,734 [INFO] Starting keyboard monitor...
+2025-05-17 03:12:39,735 [INFO] Resolved path config.json to H:\AutoDeckUIv1\config.json
+2025-05-17 03:12:39,735 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:12:39,736 [INFO] Loaded configuration: CSV=contacts.csv, Log=processed_numbers.txt, Message=message.txt
+2025-05-17 03:12:39,736 [INFO] Configuration loaded successfully
+2025-05-17 03:12:39,736 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:12:39,991 [INFO] Hotkeys registered successfully
+2025-05-17 03:12:39,991 [INFO] Entering keyboard wait loop...
+2025-05-17 03:12:49,145 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:12:49,145 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:12:49,147 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:12:49,147 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:12:49,147 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:12:49,148 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:12:49,148 [INFO] No more phone numbers to paste
+2025-05-17 03:12:49,148 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:12:49,148 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:12:49,149 [INFO] Found 3 contacts in CSV
+2025-05-17 03:12:49,150 [INFO] Selected phone number: +1234567890
+2025-05-17 03:12:49,151 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-17 03:12:49,171 [INFO] Text copied to clipboard successfully
+2025-05-17 03:12:49,272 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:12:49,276 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:12:49,276 [INFO] Pasted phone number: +1234567890
+2025-05-17 03:12:50,935 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:12:50,935 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:12:50,936 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:12:50,937 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:12:50,937 [ERROR] Failed to paste message
+2025-05-17 03:12:50,937 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:12:50,937 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:12:50,938 [INFO] Found message with length: 79
+2025-05-17 03:12:50,938 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:12:50,950 [INFO] Text copied to clipboard successfully
+2025-05-17 03:12:51,050 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:12:51,054 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:12:51,054 [INFO] Message pasted successfully
+2025-05-17 03:13:01,023 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:01,023 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:01,025 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:01,025 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:01,026 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:01,026 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:01,026 [INFO] No more phone numbers to paste
+2025-05-17 03:13:01,027 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:01,027 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:01,028 [INFO] Found 1 processed numbers
+2025-05-17 03:13:01,030 [INFO] Selected phone number: +0987654321
+2025-05-17 03:13:01,030 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-17 03:13:01,044 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:01,145 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:01,152 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:01,152 [INFO] Pasted phone number: +0987654321
+2025-05-17 03:13:02,001 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:02,001 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:02,002 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:02,002 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:02,002 [ERROR] Failed to paste message
+2025-05-17 03:13:02,002 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:02,003 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:02,003 [INFO] Found message with length: 79
+2025-05-17 03:13:02,003 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:02,015 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:02,116 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:02,119 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:02,119 [INFO] Message pasted successfully
+2025-05-17 03:13:02,993 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:02,993 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:02,994 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:02,994 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:02,995 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:02,995 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:02,995 [INFO] No more phone numbers to paste
+2025-05-17 03:13:02,995 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:02,996 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:02,996 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:02,997 [INFO] Found 2 processed numbers
+2025-05-17 03:13:02,998 [INFO] Selected phone number: +1122334455
+2025-05-17 03:13:02,998 [INFO] Attempting to copy text to clipboard: +1122334455...
+2025-05-17 03:13:03,011 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:03,112 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:03,119 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:03,119 [INFO] Pasted phone number: +1122334455
+2025-05-17 03:13:03,614 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:03,615 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:03,615 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:03,615 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:03,615 [ERROR] Failed to paste message
+2025-05-17 03:13:03,616 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:03,616 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:03,616 [INFO] Found message with length: 79
+2025-05-17 03:13:03,616 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:03,629 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:03,730 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:03,732 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:03,732 [INFO] Message pasted successfully
+2025-05-17 03:13:03,982 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:03,982 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:03,983 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:03,983 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:03,983 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:03,983 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:03,983 [INFO] No more phone numbers to paste
+2025-05-17 03:13:03,984 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:03,984 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:03,985 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:03,985 [INFO] Found 3 processed numbers
+2025-05-17 03:13:03,985 [INFO] All contacts have been processed
+2025-05-17 03:13:03,985 [INFO] No more phone numbers to paste
+2025-05-17 03:13:04,292 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:04,293 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:04,294 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:04,294 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:04,294 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:04,295 [ERROR] Failed to paste message
+2025-05-17 03:13:04,295 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:04,295 [INFO] Found message with length: 79
+2025-05-17 03:13:04,296 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:04,313 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:04,414 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:04,417 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:04,417 [INFO] Message pasted successfully
+2025-05-17 03:13:04,601 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:04,602 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:04,603 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:04,603 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:04,604 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:04,604 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:04,604 [INFO] No more phone numbers to paste
+2025-05-17 03:13:04,604 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:04,605 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:04,605 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:04,606 [INFO] Found 3 processed numbers
+2025-05-17 03:13:04,606 [INFO] All contacts have been processed
+2025-05-17 03:13:04,606 [INFO] No more phone numbers to paste
+2025-05-17 03:13:04,843 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:04,843 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:04,844 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:04,845 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:04,845 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:04,845 [ERROR] Failed to paste message
+2025-05-17 03:13:04,845 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:04,845 [INFO] Found message with length: 79
+2025-05-17 03:13:04,845 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:04,857 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:04,958 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:04,961 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:04,962 [INFO] Message pasted successfully
+2025-05-17 03:13:05,158 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:05,158 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:05,159 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:05,159 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:05,159 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:05,159 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:05,160 [INFO] No more phone numbers to paste
+2025-05-17 03:13:05,161 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:05,161 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:05,161 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:05,162 [INFO] Found 3 processed numbers
+2025-05-17 03:13:05,162 [INFO] All contacts have been processed
+2025-05-17 03:13:05,162 [INFO] No more phone numbers to paste
+2025-05-17 03:13:05,408 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:05,408 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:05,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:05,409 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:05,409 [ERROR] Failed to paste message
+2025-05-17 03:13:05,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:05,410 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:05,411 [INFO] Found message with length: 79
+2025-05-17 03:13:05,411 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:05,431 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:05,532 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:05,535 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:05,535 [INFO] Message pasted successfully
+2025-05-17 03:13:05,656 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:05,657 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:05,657 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:05,658 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:05,658 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:05,658 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:05,659 [INFO] No more phone numbers to paste
+2025-05-17 03:13:05,659 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:05,659 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:05,659 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:05,660 [INFO] Found 3 processed numbers
+2025-05-17 03:13:05,660 [INFO] All contacts have been processed
+2025-05-17 03:13:05,660 [INFO] No more phone numbers to paste
+2025-05-17 03:13:05,967 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:05,967 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:05,968 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:05,968 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:05,968 [ERROR] Failed to paste message
+2025-05-17 03:13:05,968 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:05,969 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:05,970 [INFO] Found message with length: 79
+2025-05-17 03:13:05,970 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:05,983 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:06,084 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:06,090 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:06,091 [INFO] Message pasted successfully
+2025-05-17 03:13:09,613 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:09,613 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:09,614 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:09,614 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:09,614 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:09,615 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:09,615 [INFO] No more phone numbers to paste
+2025-05-17 03:13:09,615 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:09,615 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:09,616 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:09,616 [INFO] Found 3 processed numbers
+2025-05-17 03:13:09,617 [INFO] All contacts have been processed
+2025-05-17 03:13:09,617 [INFO] No more phone numbers to paste
+2025-05-17 03:13:10,046 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:10,047 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:10,047 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:10,048 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:10,048 [ERROR] Failed to paste message
+2025-05-17 03:13:10,048 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:10,048 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:10,049 [INFO] Found message with length: 79
+2025-05-17 03:13:10,049 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:10,062 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:10,163 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:10,168 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:10,168 [INFO] Message pasted successfully
+2025-05-17 03:13:10,418 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:10,418 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:13:10,419 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:10,419 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:10,420 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:13:10,420 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:13:10,421 [INFO] No more phone numbers to paste
+2025-05-17 03:13:10,421 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:13:10,421 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:13:10,422 [INFO] Found 3 contacts in CSV
+2025-05-17 03:13:10,422 [INFO] Found 3 processed numbers
+2025-05-17 03:13:10,422 [INFO] All contacts have been processed
+2025-05-17 03:13:10,422 [INFO] No more phone numbers to paste
+2025-05-17 03:13:10,712 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:10,712 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:13:10,713 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:10,713 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:13:10,713 [ERROR] Failed to paste message
+2025-05-17 03:13:10,713 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:10,713 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:13:10,714 [INFO] Found message with length: 79
+2025-05-17 03:13:10,714 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:13:10,731 [INFO] Text copied to clipboard successfully
+2025-05-17 03:13:10,831 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:13:10,836 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:13:10,837 [INFO] Message pasted successfully
+2025-05-17 03:15:16,754 [INFO] Script running with administrator privileges
+2025-05-17 03:15:16,754 [INFO] Starting keyboard monitor...
+2025-05-17 03:15:16,755 [INFO] Resolved path config.json to H:\AutoDeckUIv1\config.json
+2025-05-17 03:15:16,755 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:15:16,756 [INFO] Resolved path logs to H:\AutoDeckUIv1\src-tauri\logs
+2025-05-17 03:15:16,766 [INFO] Created log directory at H:\AutoDeckUIv1\src-tauri\logs
+2025-05-17 03:15:16,766 [INFO] Loaded configuration: CSV=contacts.csv, Log=logs\processed_numbers.txt, Message=message.txt
+2025-05-17 03:15:16,767 [INFO] Configuration loaded successfully
+2025-05-17 03:15:16,767 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:15:17,427 [INFO] Hotkeys registered successfully
+2025-05-17 03:15:17,427 [INFO] Entering keyboard wait loop...
+2025-05-17 03:15:26,431 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:26,432 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:26,432 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:26,433 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:26,433 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:26,433 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:26,434 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:26,434 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:26,434 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:26,434 [INFO] No more phone numbers to paste
+2025-05-17 03:15:26,435 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:26,435 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:26,435 [INFO] Creating new log file at H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:26,435 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:26,436 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:26,436 [INFO] Found 3 processed numbers
+2025-05-17 03:15:26,437 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-17 03:15:26,437 [INFO] All contacts have been processed
+2025-05-17 03:15:26,437 [INFO] Selected phone number: +1234567890
+2025-05-17 03:15:26,437 [INFO] No more phone numbers to paste
+2025-05-17 03:15:26,437 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-17 03:15:26,456 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:26,557 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:26,564 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:26,564 [INFO] Pasted phone number: +1234567890
+2025-05-17 03:15:27,851 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:27,851 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:27,851 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:27,852 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:27,852 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:27,853 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:27,853 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:27,853 [ERROR] Failed to paste message
+2025-05-17 03:15:27,853 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:27,853 [INFO] Found message with length: 79
+2025-05-17 03:15:27,853 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:27,854 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:27,854 [INFO] Found message with length: 79
+2025-05-17 03:15:27,854 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:27,877 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:27,886 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:27,977 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:27,982 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:27,982 [INFO] Message pasted successfully
+2025-05-17 03:15:27,987 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:27,997 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:27,997 [INFO] Message pasted successfully
+2025-05-17 03:15:29,079 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:29,079 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:29,079 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:29,080 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:29,080 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:29,081 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:29,081 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:29,081 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:29,081 [INFO] No more phone numbers to paste
+2025-05-17 03:15:29,082 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:29,082 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:29,082 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:29,082 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:29,083 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:29,083 [INFO] Found 1 processed numbers
+2025-05-17 03:15:29,083 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:29,084 [INFO] Found 3 processed numbers
+2025-05-17 03:15:29,084 [INFO] All contacts have been processed
+2025-05-17 03:15:29,084 [INFO] No more phone numbers to paste
+2025-05-17 03:15:29,085 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-17 03:15:29,085 [INFO] Selected phone number: +0987654321
+2025-05-17 03:15:29,085 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-17 03:15:29,100 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:29,201 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:29,205 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:29,205 [INFO] Pasted phone number: +0987654321
+2025-05-17 03:15:29,697 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:29,697 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:29,697 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:29,698 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:29,698 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:29,698 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:29,699 [ERROR] Failed to paste message
+2025-05-17 03:15:29,699 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:29,699 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:29,699 [INFO] Found message with length: 79
+\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:29,699 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:29,700 [INFO] Found message with length: 79
+2025-05-17 03:15:29,701 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:29,725 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:29,729 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:29,826 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:29,829 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:29,830 [INFO] Message pasted successfully
+2025-05-17 03:15:29,830 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:29,838 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:29,838 [INFO] Message pasted successfully
+2025-05-17 03:15:30,117 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,117 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,117 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,118 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:30,119 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,119 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,119 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:30,119 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:30,120 [INFO] No more phone numbers to paste
+bers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:30,120 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,120 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:30,120 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,120 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:30,121 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:30,121 [INFO] Found 2 processed numbers
+2025-05-17 03:15:30,121 [INFO] Found 3 processed numbers
+2025-05-17 03:15:30,122 [INFO] All contacts have been processed
+2025-05-17 03:15:30,122 [INFO] No more phone numbers to paste
+2025-05-17 03:15:30,123 [INFO] Successfully wrote phone number to log: +1122334455
+2025-05-17 03:15:30,123 [INFO] Selected phone number: +1122334455
+2025-05-17 03:15:30,123 [INFO] Attempting to copy text to clipboard: +1122334455...
+2025-05-17 03:15:30,136 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:30,237 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:30,243 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:30,244 [INFO] Pasted phone number: +1122334455
+2025-05-17 03:15:30,368 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,369 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,370 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,370 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,370 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:30,371 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,371 [ERROR] Failed to paste message
+2025-05-17 03:15:30,371 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,371 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,372 [INFO] Found message with length: 79
+2025-05-17 03:15:30,372 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:30,372 [INFO] Found message with length: 79
+2025-05-17 03:15:30,372 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:30,402 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:30,410 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:30,503 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:30,509 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:30,509 [INFO] Message pasted successfully
+2025-05-17 03:15:30,511 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:30,513 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:30,513 [INFO] Message pasted successfully
+2025-05-17 03:15:30,613 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,614 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,614 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:30,615 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,615 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:30,615 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,616 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:30,616 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:30,616 [INFO] No more phone numbers to paste
+2025-05-17 03:15:30,617 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:30,617 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,617 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:30,617 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:30,617 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:30,618 [INFO] Found 3 processed numbers
+2025-05-17 03:15:30,618 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:30,618 [INFO] All contacts have been processed
+2025-05-17 03:15:30,618 [INFO] No more phone numbers to paste
+2025-05-17 03:15:30,619 [INFO] Found 3 processed numbers
+2025-05-17 03:15:30,619 [INFO] All contacts have been processed
+2025-05-17 03:15:30,619 [INFO] No more phone numbers to paste
+2025-05-17 03:15:30,799 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,799 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,799 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:30,800 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:30,800 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:30,800 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,800 [ERROR] Failed to paste message
+to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,801 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,801 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:30,801 [INFO] Found message with length: 79
+2025-05-17 03:15:30,801 [INFO] Found message with length: 79
+2025-05-17 03:15:30,801 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:30,801 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:30,823 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:30,832 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:30,924 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:30,929 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:30,929 [INFO] Message pasted successfully
+2025-05-17 03:15:30,932 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:30,935 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:30,935 [INFO] Message pasted successfully
+2025-05-17 03:15:31,028 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,028 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,028 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,029 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:31,029 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,029 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,030 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:31,030 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:31,030 [INFO] No more phone numbers to paste
+2025-05-17 03:15:31,031 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:31,031 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,031 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:31,031 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,031 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:31,032 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:31,032 [INFO] Found 3 processed numbers
+2025-05-17 03:15:31,032 [INFO] All contacts have been processed
+2025-05-17 03:15:31,032 [INFO] No more phone numbers to paste
+2025-05-17 03:15:31,032 [INFO] Found 3 processed numbers
+2025-05-17 03:15:31,033 [INFO] All contacts have been processed
+2025-05-17 03:15:31,033 [INFO] No more phone numbers to paste
+2025-05-17 03:15:31,266 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:31,266 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:31,267 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:15:31,268 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:31,268 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:31,268 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:15:31,268 [ERROR] Failed to paste message
+2025-05-17 03:15:31,268 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:31,268 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:31,268 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:15:31,268 [INFO] Found message with length: 79
+2025-05-17 03:15:31,269 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:31,269 [INFO] Found message with length: 79
+2025-05-17 03:15:31,269 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:15:31,292 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:31,300 [INFO] Text copied to clipboard successfully
+2025-05-17 03:15:31,393 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:31,400 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:31,400 [INFO] Message pasted successfully
+2025-05-17 03:15:31,401 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:15:31,408 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:15:31,409 [INFO] Message pasted successfully
+2025-05-17 03:15:31,451 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,451 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,451 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:15:31,452 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:31,452 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,453 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,453 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:15:31,453 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:15:31,453 [INFO] No more phone numbers to paste
+2025-05-17 03:15:31,453 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:15:31,454 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,454 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:31,454 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:15:31,455 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:15:31,455 [INFO] Found 3 processed numbers
+2025-05-17 03:15:31,455 [INFO] All contacts have been processed
+2025-05-17 03:15:31,455 [INFO] No more phone numbers to paste
+2025-05-17 03:15:31,455 [INFO] Found 3 contacts in CSV
+2025-05-17 03:15:31,456 [INFO] Found 3 processed numbers
+2025-05-17 03:15:31,456 [INFO] All contacts have been processed
+2025-05-17 03:15:31,457 [INFO] No more phone numbers to paste
+2025-05-17 03:16:21,772 [INFO] Script running with administrator privileges
+2025-05-17 03:16:21,772 [INFO] Starting keyboard monitor...
+2025-05-17 03:16:21,773 [INFO] Resolved path config.json to H:\AutoDeckUIv1\config.json
+2025-05-17 03:16:21,773 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:16:21,774 [INFO] Resolved path logs to H:\AutoDeckUIv1\src-tauri\logs
+2025-05-17 03:16:21,774 [INFO] Loaded configuration: CSV=contacts.csv, Log=logs\processed_numbers.txt, Message=message.txt
+2025-05-17 03:16:21,775 [INFO] Configuration loaded successfully
+2025-05-17 03:16:21,775 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:16:22,155 [INFO] Hotkeys registered successfully
+2025-05-17 03:16:22,155 [INFO] Entering keyboard wait loop...
+2025-05-17 03:17:36,585 [INFO] Script running with administrator privileges
+2025-05-17 03:17:36,586 [INFO] Starting keyboard monitor...
+2025-05-17 03:17:36,586 [INFO] Resolved path config.json to H:\AutoDeckUIv1\config.json
+2025-05-17 03:17:36,586 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:17:36,587 [INFO] Resolved path logs to H:\AutoDeckUIv1\src-tauri\logs
+2025-05-17 03:17:36,588 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\src-tauri\logs
+2025-05-17 03:17:36,588 [INFO] Using log file at: H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:36,588 [INFO] Loaded configuration: CSV=contacts.csv, Log=H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt, Message=message.txt
+2025-05-17 03:17:36,588 [INFO] Configuration loaded successfully
+2025-05-17 03:17:36,588 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:17:36,885 [INFO] Hotkeys registered successfully
+2025-05-17 03:17:36,885 [INFO] Entering keyboard wait loop...
+2025-05-17 03:17:49,854 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:49,854 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:49,854 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:49,855 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:49,855 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:49,856 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+sage.txt
+2025-05-17 03:17:49,857 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:49,857 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [ERROR] Failed to paste message
+2025-05-17 03:17:49,857 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [INFO] Found message with length: 79
+2025-05-17 03:17:49,857 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [INFO] Found message with length: 79
+board: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:49,857 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:49,857 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:49,858 [INFO] Found message with length: 79
+2025-05-17 03:17:49,858 [INFO] Found message with length: 79
+2025-05-17 03:17:49,858 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:49,894 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:49,901 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:49,905 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:49,917 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:49,995 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:49,999 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:49,999 [INFO] Message pasted successfully
+2025-05-17 03:17:50,002 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:50,005 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:50,006 [INFO] Message pasted successfully
+2025-05-17 03:17:50,006 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:50,012 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:50,012 [INFO] Message pasted successfully
+2025-05-17 03:17:50,018 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:50,023 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:50,023 [INFO] Message pasted successfully
+2025-05-17 03:17:50,769 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:50,769 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:50,769 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:50,770 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,770 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:50,770 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,770 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:50,771 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:50,771 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,771 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:50,772 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,772 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:50,772 [INFO] Found 3 processed numbers
+2025-05-17 03:17:50,772 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,772 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:50,772 [INFO] All contacts have been processed
+ckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,772 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:17:50,772 [INFO] No more phone numbers to paste
+2025-05-17 03:17:50,773 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:50,773 [INFO] No more phone numbers to paste
+2025-05-17 03:17:50,773 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:50,773 [INFO] Found 3 processed numbers
+2025-05-17 03:17:50,773 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:50,774 [INFO] All contacts have been processed
+2025-05-17 03:17:50,774 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:17:50,774 [INFO] No more phone numbers to paste
+2025-05-17 03:17:50,774 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,774 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:50,774 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:50,774 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:50,775 [INFO] Found 3 processed numbers
+2025-05-17 03:17:50,775 [INFO] Found 3 processed numbers
+2025-05-17 03:17:50,775 [INFO] All contacts have been processed
+2025-05-17 03:17:50,775 [INFO] No more phone numbers to paste
+2025-05-17 03:17:50,775 [INFO] No more phone numbers to paste
+2025-05-17 03:17:51,375 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:51,375 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:51,376 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:51,376 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:51,377 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:51,377 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,377 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,377 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,377 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,377 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:51,378 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,378 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:51,378 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,378 [ERROR] Failed to paste message
+2025-05-17 03:17:51,378 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,378 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:51,378 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:51,378 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:51,378 [INFO] Found message with length: 79
+2025-05-17 03:17:51,379 [INFO] Found message with length: 79
+2025-05-17 03:17:51,380 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:51,411 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:51,419 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:51,429 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:51,439 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:51,512 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:51,516 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:51,517 [INFO] Message pasted successfully
+2025-05-17 03:17:51,520 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:51,527 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:51,528 [INFO] Message pasted successfully
+2025-05-17 03:17:51,530 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:51,535 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:51,535 [INFO] Message pasted successfully
+2025-05-17 03:17:51,539 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:51,544 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:51,545 [INFO] Message pasted successfully
+2025-05-17 03:17:52,615 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:52,615 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:52,616 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:52,617 [INFO] Ctrl+Alt+1 detected
+s.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,617 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:52,617 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,617 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:52,617 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,618 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,618 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:52,618 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:52,618 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,619 [INFO] Found 3 processed numbers
+2025-05-17 03:17:52,619 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:17:52,619 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:52,619 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:52,619 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:52,619 [INFO] No more phone numbers to paste
+2025-05-17 03:17:52,619 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,619 [INFO] No more phone numbers to paste
+2025-05-17 03:17:52,619 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,620 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:52,620 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:52,620 [INFO] Found 3 processed numbers
+2025-05-17 03:17:52,620 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:17:52,620 [INFO] All contacts have been processed
+2025-05-17 03:17:52,620 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:52,620 [INFO] Found 3 processed numbers
+2025-05-17 03:17:52,620 [INFO] No more phone numbers to paste
+2025-05-17 03:17:52,621 [INFO] All contacts have been processed
+2025-05-17 03:17:52,621 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:52,621 [INFO] No more phone numbers to paste
+2025-05-17 03:17:52,622 [INFO] Found 3 processed numbers
+2025-05-17 03:17:52,622 [INFO] All contacts have been processed
+2025-05-17 03:17:52,622 [INFO] No more phone numbers to paste
+2025-05-17 03:17:52,983 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:52,983 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:52,983 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:52,983 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:52,983 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:52,984 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:52,985 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:52,985 [ERROR] Failed to paste message
+2025-05-17 03:17:52,985 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:52,985 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:52,985 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:52,985 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:52,985 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:52,986 [INFO] Found message with length: 79
+2025-05-17 03:17:52,986 [INFO] Found message with length: 79
+2025-05-17 03:17:52,986 [INFO] Found message with length: 79
+2025-05-17 03:17:52,986 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:52,986 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:52,986 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:52,986 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:53,022 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:53,032 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:53,041 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:53,048 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:53,123 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:53,130 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:53,130 [INFO] Message pasted successfully
+2025-05-17 03:17:53,133 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:53,139 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:53,139 [INFO] Message pasted successfully
+2025-05-17 03:17:53,141 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:53,148 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:53,150 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:53,151 [INFO] Message pasted successfully
+2025-05-17 03:17:53,157 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:53,157 [INFO] Message pasted successfully
+2025-05-17 03:17:54,099 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:54,099 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:54,099 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:54,100 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:54,100 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:54,101 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,101 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,101 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:54,102 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,102 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,102 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:54,103 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+numbers.txt
+2025-05-17 03:17:54,103 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:54,103 [INFO] No more phone numbers to paste
+2025-05-17 03:17:54,103 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:54,103 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:54,104 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:54,104 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:17:54,104 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,104 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,104 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:54,104 [INFO] Found 3 processed numbers
+2025-05-17 03:17:54,104 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:54,104 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:54,104 [INFO] All contacts have been processed
+2025-05-17 03:17:54,105 [INFO] No more phone numbers to paste
+2025-05-17 03:17:54,105 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:54,105 [INFO] Found 3 processed numbers
+2025-05-17 03:17:54,105 [INFO] Found 3 processed numbers
+2025-05-17 03:17:54,105 [INFO] All contacts have been processed
+2025-05-17 03:17:54,105 [INFO] Found 3 processed numbers
+2025-05-17 03:17:54,105 [INFO] All contacts have been processed
+2025-05-17 03:17:54,105 [INFO] No more phone numbers to paste
+2025-05-17 03:17:54,105 [INFO] All contacts have been processed
+2025-05-17 03:17:54,105 [INFO] No more phone numbers to paste
+2025-05-17 03:17:54,106 [INFO] No more phone numbers to paste
+2025-05-17 03:17:55,518 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:55,518 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:55,518 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:55,518 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:55,518 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:17:55,519 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:55,520 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:17:55,520 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [ERROR] Failed to paste message
+2025-05-17 03:17:55,520 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,520 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:17:55,521 [INFO] Found message with length: 79
+2025-05-17 03:17:55,521 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:55,521 [INFO] Found message with length: 79
+2025-05-17 03:17:55,521 [INFO] Found message with length: 79
+2025-05-17 03:17:55,521 [INFO] Found message with length: 79
+2025-05-17 03:17:55,521 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:55,521 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:17:55,556 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:55,564 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:55,569 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:55,574 [INFO] Text copied to clipboard successfully
+2025-05-17 03:17:55,658 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:55,663 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:55,663 [INFO] Message pasted successfully
+2025-05-17 03:17:55,665 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:55,670 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:55,674 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:17:55,677 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:55,677 [INFO] Message pasted successfully
+2025-05-17 03:17:55,681 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:55,682 [INFO] Message pasted successfully
+2025-05-17 03:17:55,682 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:17:55,683 [INFO] Message pasted successfully
+2025-05-17 03:17:58,928 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:58,928 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:58,928 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:58,929 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:58,929 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:17:58,930 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,930 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,930 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:58,930 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,930 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,930 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:17:58,930 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:58,931 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:17:58,931 [INFO] No more phone numbers to paste
+DeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,931 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:58,931 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:17:58,931 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:58,931 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,932 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,932 [INFO] Found 3 processed numbers
+2025-05-17 03:17:58,932 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:17:58,932 [INFO] Found 3 contacts in CSV
+ocessed
+2025-05-17 03:17:58,932 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:17:58,932 [INFO] No more phone numbers to paste
+2025-05-17 03:17:58,932 [INFO] Found 3 processed numbers
+2025-05-17 03:17:58,933 [INFO] All contacts have been processed
+2025-05-17 03:17:58,933 [INFO] Found 3 contacts in CSV
+2025-05-17 03:17:58,933 [INFO] No more phone numbers to paste
+2025-05-17 03:17:58,933 [INFO] All contacts have been processed
+2025-05-17 03:17:58,933 [INFO] Found 3 processed numbers
+2025-05-17 03:17:58,933 [INFO] No more phone numbers to paste
+2025-05-17 03:17:58,933 [INFO] All contacts have been processed
+2025-05-17 03:17:58,934 [INFO] No more phone numbers to paste
+2025-05-17 03:18:01,402 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:18:01,402 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:18:01,402 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:18:01,402 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:18:01,402 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:18:01,404 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:18:01,404 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:18:01,404 [ERROR] Failed to paste message
+to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,404 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:18:01,405 [INFO] Found message with length: 79
+2025-05-17 03:18:01,405 [INFO] Found message with length: 79
+2025-05-17 03:18:01,405 [INFO] Found message with length: 79
+2025-05-17 03:18:01,405 [INFO] Found message with length: 79
+2025-05-17 03:18:01,405 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:18:01,405 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:18:01,405 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:18:01,405 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:18:01,441 [INFO] Text copied to clipboard successfully
+2025-05-17 03:18:01,448 [INFO] Text copied to clipboard successfully
+2025-05-17 03:18:01,462 [INFO] Text copied to clipboard successfully
+2025-05-17 03:18:01,473 [INFO] Text copied to clipboard successfully
+2025-05-17 03:18:01,542 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:18:01,549 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:18:01,549 [INFO] Message pasted successfully
+2025-05-17 03:18:01,549 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:18:01,553 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:18:01,553 [INFO] Message pasted successfully
+2025-05-17 03:18:01,562 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:18:01,570 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:18:01,570 [INFO] Message pasted successfully
+2025-05-17 03:18:01,574 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:18:01,586 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:18:01,587 [INFO] Message pasted successfully
+2025-05-17 03:19:25,031 [INFO] Script running with administrator privileges
+2025-05-17 03:19:25,032 [INFO] Starting keyboard monitor...
+2025-05-17 03:19:25,032 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 03:19:25,032 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:19:25,033 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 03:19:25,033 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:25,034 [INFO] Created new log file at H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:25,034 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:25,034 [INFO] Configuration loaded successfully
+2025-05-17 03:19:25,034 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:19:25,974 [INFO] Hotkeys registered successfully
+2025-05-17 03:19:25,975 [INFO] Entering keyboard wait loop...
+2025-05-17 03:19:36,758 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,758 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,758 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,758 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,759 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,760 [INFO] Resolved path H:\AutoDeckUIv1\contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:36,760 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:36,760 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,760 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,760 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:36,760 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:36,760 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,761 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:36,761 [INFO] No more phone numbers to paste
+2025-05-17 03:19:36,761 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+acts.csv
+2025-05-17 03:19:36,761 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:36,761 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:19:36,761 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,761 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:36,761 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+numbers.txt
+2025-05-17 03:19:36,761 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,762 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:36,762 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:36,762 [INFO] No more phone numbers to paste
+2025-05-17 03:19:36,762 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:36,762 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:19:36,762 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:36,762 [INFO] Found 0 processed numbers
+2025-05-17 03:19:36,762 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:36,763 [INFO] Found 3 processed numbers
+2025-05-17 03:19:36,763 [INFO] Found 0 processed numbers
+2025-05-17 03:19:36,763 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:36,763 [INFO] All contacts have been processed
+2025-05-17 03:19:36,763 [INFO] No more phone numbers to paste
+2025-05-17 03:19:36,763 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-17 03:19:36,764 [INFO] Selected phone number: +1234567890
+2025-05-17 03:19:36,764 [INFO] All contacts have been processed
+2025-05-17 03:19:36,764 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-17 03:19:36,764 [INFO] No more phone numbers to paste
+2025-05-17 03:19:36,764 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-17 03:19:36,766 [INFO] Selected phone number: +1234567890
+2025-05-17 03:19:36,766 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-17 03:19:36,794 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:36,796 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:36,895 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:36,898 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:36,906 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:36,907 [INFO] Pasted phone number: +1234567890
+2025-05-17 03:19:36,912 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:36,913 [INFO] Pasted phone number: +1234567890
+2025-05-17 03:19:38,126 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,126 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,126 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,127 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,127 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,128 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:38,128 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+.txt
+2025-05-17 03:19:38,128 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:38,128 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,128 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:38,128 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,129 [ERROR] Failed to paste message
+2025-05-17 03:19:38,129 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:38,129 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,129 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,129 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:38,129 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,129 [ERROR] Failed to paste message
+2025-05-17 03:19:38,129 [INFO] Found message with length: 79
+2025-05-17 03:19:38,129 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:38,129 [INFO] Found message with length: 79
+2025-05-17 03:19:38,129 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,130 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:38,130 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:38,130 [INFO] Found message with length: 79
+2025-05-17 03:19:38,130 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:38,130 [INFO] Found message with length: 79
+2025-05-17 03:19:38,132 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:38,169 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:38,179 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:38,181 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:38,186 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:38,269 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:38,274 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:38,275 [INFO] Message pasted successfully
+2025-05-17 03:19:38,280 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:38,281 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:38,287 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:38,294 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:38,294 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:38,294 [INFO] Message pasted successfully
+2025-05-17 03:19:38,295 [INFO] Message pasted successfully
+2025-05-17 03:19:38,299 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:38,300 [INFO] Message pasted successfully
+2025-05-17 03:19:39,185 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:39,185 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:39,185 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:39,185 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:39,186 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:39,187 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:39,187 [INFO] Resolved path H:\AutoDeckUIv1\contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:39,187 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:39,188 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:39,188 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:19:39,188 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:39,188 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:39,188 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:39,188 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+c-tauri\logs\processed_numbers.txt
+2025-05-17 03:19:39,188 [INFO] No more phone numbers to paste
+2025-05-17 03:19:39,188 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:39,189 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:39,189 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:39,189 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:39,189 [INFO] No more phone numbers to paste
+2025-05-17 03:19:39,190 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:39,190 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:39,190 [INFO] Found 3 processed numbers
+2025-05-17 03:19:39,190 [INFO] Found 1 processed numbers
+2025-05-17 03:19:39,190 [INFO] Found 1 processed numbers
+2025-05-17 03:19:39,190 [INFO] All contacts have been processed
+2025-05-17 03:19:39,191 [INFO] No more phone numbers to paste
+2025-05-17 03:19:39,192 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-17 03:19:39,192 [INFO] Selected phone number: +0987654321
+2025-05-17 03:19:39,193 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-17 03:19:39,193 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-17 03:19:39,193 [INFO] Selected phone number: +0987654321
+2025-05-17 03:19:39,195 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-17 03:19:39,220 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:39,232 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:39,322 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:39,328 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:39,328 [INFO] Pasted phone number: +0987654321
+2025-05-17 03:19:39,332 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:39,341 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:39,342 [INFO] Pasted phone number: +0987654321
+2025-05-17 03:19:48,619 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,619 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,619 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,619 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,620 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,620 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:48,621 [INFO] Resolved path H:\AutoDeckUIv1\message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:48,621 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,621 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:48,622 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,622 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:48,622 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:48,622 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,622 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,622 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+essage.txt
+2025-05-17 03:19:48,622 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,622 [ERROR] Failed to paste message
+2025-05-17 03:19:48,622 [INFO] Found message with length: 79
+2025-05-17 03:19:48,623 [INFO] Found message with length: 79
+2025-05-17 03:19:48,623 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:48,623 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:48,623 [INFO] Found message with length: 79
+2025-05-17 03:19:48,623 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:48,623 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:48,623 [INFO] Found message with length: 79
+2025-05-17 03:19:48,625 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:48,658 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:48,667 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:48,675 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:48,686 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:48,760 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:48,765 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:48,765 [INFO] Message pasted successfully
+2025-05-17 03:19:48,769 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:48,776 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:48,779 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:48,779 [INFO] Message pasted successfully
+2025-05-17 03:19:48,784 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:48,784 [INFO] Message pasted successfully
+2025-05-17 03:19:48,787 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:48,798 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:48,798 [INFO] Message pasted successfully
+2025-05-17 03:19:49,601 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:49,601 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:49,601 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:49,602 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:49,602 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:49,603 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+.csv
+2025-05-17 03:19:49,603 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,604 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,604 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:49,604 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+logs\processed_numbers.txt
+2025-05-17 03:19:49,604 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,604 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:49,604 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:19:49,604 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,604 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:49,604 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:49,605 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,605 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,605 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:19:49,605 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:49,605 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:49,605 [INFO] No more phone numbers to paste
+2025-05-17 03:19:49,605 [INFO] No more phone numbers to paste
+2025-05-17 03:19:49,605 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:19:49,605 [INFO] Found 3 contacts in CSV
+
+2025-05-17 03:19:49,605 [INFO] Found 3 contacts in CSV
+H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:49,606 [INFO] Found 3 processed numbers
+2025-05-17 03:19:49,606 [INFO] All contacts have been processed
+2025-05-17 03:19:49,606 [INFO] Found 3 processed numbers
+2025-05-17 03:19:49,606 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:49,606 [INFO] All contacts have been processed
+2025-05-17 03:19:49,607 [INFO] No more phone numbers to paste
+2025-05-17 03:19:49,607 [INFO] Found 3 processed numbers
+2025-05-17 03:19:49,607 [INFO] All contacts have been processed
+2025-05-17 03:19:49,607 [INFO] No more phone numbers to paste
+2025-05-17 03:19:49,607 [INFO] Successfully wrote phone number to log: +1122334455
+2025-05-17 03:19:49,608 [INFO] Selected phone number: +1122334455
+2025-05-17 03:19:49,608 [INFO] Attempting to copy text to clipboard: +1122334455...
+2025-05-17 03:19:49,628 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:49,730 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:49,734 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:49,735 [INFO] Pasted phone number: +1122334455
+2025-05-17 03:19:50,406 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,406 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,407 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,407 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,407 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,407 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:50,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [INFO] Resolved path H:\AutoDeckUIv1\message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:50,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:50,409 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:50,409 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:50,409 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,409 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,410 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:50,410 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:50,410 [ERROR] Failed to paste message
+2025-05-17 03:19:50,410 [INFO] Found message with length: 79
+2025-05-17 03:19:50,410 [INFO] Found message with length: 79
+2025-05-17 03:19:50,410 [INFO] Found message with length: 79
+2025-05-17 03:19:50,410 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:50,410 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:50,410 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:50,411 [INFO] Found message with length: 79
+2025-05-17 03:19:50,411 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:50,451 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:50,459 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:50,469 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:50,476 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:50,551 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:50,556 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:50,556 [INFO] Message pasted successfully
+2025-05-17 03:19:50,561 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:50,570 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:50,572 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:50,572 [INFO] Message pasted successfully
+2025-05-17 03:19:50,577 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:50,577 [INFO] Message pasted successfully
+2025-05-17 03:19:50,577 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:50,588 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:50,588 [INFO] Message pasted successfully
+2025-05-17 03:19:51,154 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,154 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,154 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,155 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,155 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,155 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:19:51,156 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,157 [INFO] Resolved path H:\AutoDeckUIv1\contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:51,157 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+acts.csv
+2025-05-17 03:19:51,157 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,157 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:19:51,157 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,158 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:19:51,158 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,158 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:51,158 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:51,158 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:51,158 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:51,158 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,158 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:19:51,158 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,158 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:19:51,158 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,158 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:51,159 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,159 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:51,159 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:51,159 [INFO] Found 3 processed numbers
+2025-05-17 03:19:51,159 [INFO] All contacts have been processed
+2025-05-17 03:19:51,159 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:19:51,159 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,159 [INFO] All contacts have been processed
+2025-05-17 03:19:51,159 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:19:51,159 [INFO] Found 3 processed numbers
+2025-05-17 03:19:51,160 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,160 [INFO] All contacts have been processed
+2025-05-17 03:19:51,160 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,160 [INFO] Found 3 contacts in CSV
+2025-05-17 03:19:51,160 [INFO] Found 3 processed numbers
+2025-05-17 03:19:51,160 [INFO] All contacts have been processed
+2025-05-17 03:19:51,161 [INFO] No more phone numbers to paste
+2025-05-17 03:19:51,962 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,962 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,962 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,963 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,963 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,963 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:19:51,965 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:51,965 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:51,965 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:51,965 [INFO] Resolved path H:\AutoDeckUIv1\message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:19:51,965 [ERROR] Failed to paste message
+2025-05-17 03:19:51,965 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:51,966 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:51,966 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+sage.txt
+2025-05-17 03:19:51,966 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:51,966 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:19:51,967 [ERROR] Failed to paste message
+2025-05-17 03:19:51,967 [INFO] Found message with length: 79
+2025-05-17 03:19:51,967 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:51,967 [INFO] Found message with length: 79
+2025-05-17 03:19:51,967 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:51,967 [INFO] Found message with length: 79
+2025-05-17 03:19:51,967 [INFO] Found message with length: 79
+2025-05-17 03:19:51,967 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:51,967 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:19:52,003 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:52,014 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:52,018 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:52,025 [INFO] Text copied to clipboard successfully
+2025-05-17 03:19:52,105 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:52,110 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:52,111 [INFO] Message pasted successfully
+2025-05-17 03:19:52,114 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:52,118 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:52,126 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:19:52,130 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:52,130 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:52,130 [INFO] Message pasted successfully
+2025-05-17 03:19:52,130 [INFO] Message pasted successfully
+2025-05-17 03:19:52,136 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:19:52,136 [INFO] Message pasted successfully
+2025-05-17 03:22:07,018 [INFO] Script running with administrator privileges
+2025-05-17 03:22:07,019 [INFO] Starting keyboard monitor...
+2025-05-17 03:22:07,019 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 03:22:07,019 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 03:22:07,020 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 03:22:07,020 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:22:07,020 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:07,020 [INFO] Configuration loaded successfully
+2025-05-17 03:22:07,020 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 03:22:07,482 [INFO] Hotkeys registered successfully
+2025-05-17 03:22:07,482 [INFO] Entering keyboard wait loop...
+2025-05-17 03:22:15,131 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,131 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,131 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,132 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,132 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,133 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,133 [INFO] Ctrl+Alt+1 detected
+2025-05-17 03:22:15,134 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,134 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,134 [INFO] Resolved path H:\AutoDeckUIv1\contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,134 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Resolved path H:\AutoDeckUIv1\contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Resolved path H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt to H:\AutoDeckUIv1\src-tauri\logs\processed_numbers.txt
+2025-05-17 03:22:15,135 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:22:15,135 [INFO] Resolved path contacts.csv to H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:22:15,135 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,135 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,135 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,136 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:22:15,136 [INFO] Resolved path processed_numbers.txt to H:\AutoDeckUIv1\processed_numbers.txt
+2025-05-17 03:22:15,136 [INFO] Resolved path logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 03:22:15,136 [INFO] Found 3 contacts in CSV
+2025-05-17 03:22:15,136 [INFO] No more phone numbers to paste
+2025-05-17 03:22:15,136 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,136 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,136 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,136 [INFO] No more phone numbers to paste
+2025-05-17 03:22:15,136 [ERROR] CSV file not found at H:\AutoDeckUIv1\contacts.csv
+2025-05-17 03:22:15,136 [INFO] Found 3 processed numbers
+2025-05-17 03:22:15,136 [INFO] Found 0 processed numbers
+2025-05-17 03:22:15,137 [INFO] Found 3 contacts in CSV
+2025-05-17 03:22:15,137 [INFO] All contacts have been processed
+2025-05-17 03:22:15,137 [INFO] No more phone numbers to paste
+txt to H:\AutoDeckUIv1\src-tauri\processed_numbers.txt
+2025-05-17 03:22:15,137 [INFO] No more phone numbers to paste
+2025-05-17 03:22:15,137 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\src-tauri\contacts.csv
+2025-05-17 03:22:15,137 [INFO] Found 3 contacts in CSV
+2025-05-17 03:22:15,137 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-17 03:22:15,138 [INFO] Found 1 processed numbers
+2025-05-17 03:22:15,138 [INFO] Selected phone number: +1234567890
+2025-05-17 03:22:15,138 [INFO] Found 3 processed numbers
+2025-05-17 03:22:15,138 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-17 03:22:15,138 [INFO] All contacts have been processed
+2025-05-17 03:22:15,138 [INFO] No more phone numbers to paste
+2025-05-17 03:22:15,139 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-17 03:22:15,140 [INFO] Selected phone number: +0987654321
+2025-05-17 03:22:15,141 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-17 03:22:15,168 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:15,169 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:15,269 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:15,271 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:15,279 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:15,279 [INFO] Pasted phone number: +1234567890
+2025-05-17 03:22:15,280 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:15,281 [INFO] Pasted phone number: +0987654321
+2025-05-17 03:22:18,468 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,468 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,468 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,468 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,468 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,469 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,470 [INFO] Ctrl+Alt+2 detected
+2025-05-17 03:22:18,470 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,471 [INFO] Resolved path H:\AutoDeckUIv1\message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,471 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,471 [INFO] Resolved path H:\AutoDeckUIv1\message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,471 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,471 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,471 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,471 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,471 [INFO] Looking for message file at: H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,471 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,471 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,472 [INFO] Found message with length: 79
+2025-05-17 03:22:18,472 [ERROR] Message file not found at H:\AutoDeckUIv1\message.txt
+2025-05-17 03:22:18,472 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,472 [INFO] Looking for message file at: H:\AutoDeckUIv1\src-tauri\message.txt
+2025-05-17 03:22:18,472 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:22:18,472 [ERROR] Failed to paste message
+ 79
+2025-05-17 03:22:18,472 [INFO] Found message with length: 79
+2025-05-17 03:22:18,472 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:22:18,472 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:22:18,473 [INFO] Found message with length: 79
+2025-05-17 03:22:18,475 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-17 03:22:18,516 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:18,526 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:18,528 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:18,534 [INFO] Text copied to clipboard successfully
+2025-05-17 03:22:18,618 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:18,623 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:18,624 [INFO] Message pasted successfully
+2025-05-17 03:22:18,627 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:18,630 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:18,635 [INFO] Attempting to simulate Ctrl+V
+2025-05-17 03:22:18,640 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:18,640 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:18,641 [INFO] Message pasted successfully
+2025-05-17 03:22:18,641 [INFO] Message pasted successfully
+2025-05-17 03:22:18,646 [INFO] Ctrl+V simulated successfully
+2025-05-17 03:22:18,646 [INFO] Message pasted successfully
+2025-05-17 12:45:48,745 [INFO] Script running with administrator privileges
+2025-05-17 12:45:48,746 [INFO] Starting keyboard monitor...
+2025-05-17 12:45:48,746 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 12:45:48,746 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 12:45:48,747 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 12:45:48,747 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 12:45:48,747 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 12:45:48,747 [INFO] Configuration loaded successfully
+2025-05-17 12:45:48,747 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 12:45:48,816 [INFO] Hotkeys registered successfully
+2025-05-17 12:45:48,817 [INFO] Entering keyboard wait loop...
+2025-05-17 13:26:02,973 [INFO] Script running with administrator privileges
+2025-05-17 13:26:02,973 [INFO] Starting keyboard monitor...
+2025-05-17 13:26:02,973 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 13:26:02,974 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 13:26:02,974 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 13:26:02,974 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 13:26:02,975 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 13:26:02,975 [INFO] Configuration loaded successfully
+2025-05-17 13:26:02,975 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 13:26:03,057 [INFO] Hotkeys registered successfully
+2025-05-17 13:26:03,057 [INFO] Entering keyboard wait loop...
+2025-05-17 13:27:26,438 [INFO] Script running with administrator privileges
+2025-05-17 13:27:26,438 [INFO] Starting keyboard monitor...
+2025-05-17 13:27:26,438 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 13:27:26,438 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 13:27:26,439 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 13:27:26,439 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 13:27:26,439 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 13:27:26,439 [INFO] Configuration loaded successfully
+2025-05-17 13:27:26,439 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 13:27:26,526 [INFO] Hotkeys registered successfully
+2025-05-17 13:27:26,526 [INFO] Entering keyboard wait loop...
+2025-05-17 14:14:02,355 [INFO] Script running with administrator privileges
+2025-05-17 14:14:02,356 [INFO] Starting keyboard monitor...
+2025-05-17 14:14:02,356 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 14:14:02,356 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 14:14:02,357 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 14:14:02,357 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 14:14:02,357 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 14:14:02,357 [INFO] Configuration loaded successfully
+2025-05-17 14:14:02,357 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 14:14:02,594 [INFO] Hotkeys registered successfully
+2025-05-17 14:14:02,594 [INFO] Entering keyboard wait loop...
+2025-05-17 14:17:54,503 [INFO] Script running with administrator privileges
+2025-05-17 14:17:54,503 [INFO] Starting keyboard monitor...
+2025-05-17 14:17:54,504 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-17 14:17:54,504 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-17 14:17:54,505 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-17 14:17:54,505 [INFO] Using log file at: H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-17 14:17:54,505 [INFO] Loaded configuration: CSV=H:\AutoDeckUIv1\contacts.csv, Log=H:\AutoDeckUIv1\logs\processed_numbers.txt, Message=H:\AutoDeckUIv1\message.txt
+2025-05-17 14:17:54,505 [INFO] Configuration loaded successfully
+2025-05-17 14:17:54,505 [INFO] Monitoring for Ctrl+Alt+1 and Ctrl+Alt+2
+2025-05-17 14:17:54,583 [INFO] Hotkeys registered successfully
+2025-05-17 14:17:54,583 [INFO] Entering keyboard wait loop...
+2025-05-19 18:22:33,108 [INFO] Script running with administrator privileges
+2025-05-19 18:22:33,108 [INFO] Starting keyboard monitor...
+2025-05-19 18:22:33,108 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:22:33,108 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:22:33,109 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:22:33,109 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:22:33,109 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:22:37,274 [INFO] Script running with administrator privileges
+2025-05-19 18:22:37,274 [INFO] Starting keyboard monitor...
+2025-05-19 18:22:37,274 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:22:37,275 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:22:37,275 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:22:37,275 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:22:37,276 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:22:41,328 [INFO] Script running with administrator privileges
+2025-05-19 18:22:41,328 [INFO] Starting keyboard monitor...
+2025-05-19 18:22:41,328 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:22:41,328 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:22:41,329 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:22:41,329 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:22:41,329 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:22:45,438 [INFO] Script running with administrator privileges
+2025-05-19 18:22:45,439 [INFO] Starting keyboard monitor...
+2025-05-19 18:22:45,439 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:22:45,439 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:22:45,439 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:22:45,440 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:22:45,440 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:23:38,256 [INFO] Script running with administrator privileges
+2025-05-19 18:23:38,257 [INFO] Starting keyboard monitor...
+2025-05-19 18:23:38,257 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:23:38,257 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:23:38,258 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:23:38,258 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:23:38,258 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:23:44,837 [INFO] Script running with administrator privileges
+2025-05-19 18:23:44,838 [INFO] Starting keyboard monitor...
+2025-05-19 18:23:44,838 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:23:44,838 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:23:44,839 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:23:44,839 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:23:44,839 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:23:52,190 [INFO] Script running with administrator privileges
+2025-05-19 18:23:52,190 [INFO] Starting keyboard monitor...
+2025-05-19 18:23:52,190 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:23:52,190 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:23:52,191 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:23:52,191 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:23:52,191 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:05,617 [INFO] Script running with administrator privileges
+2025-05-19 18:25:05,617 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:05,618 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:05,618 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:05,618 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:05,618 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:05,619 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:09,771 [INFO] Script running with administrator privileges
+2025-05-19 18:25:09,771 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:09,771 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:09,771 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:09,772 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:09,772 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:09,772 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:13,854 [INFO] Script running with administrator privileges
+2025-05-19 18:25:13,854 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:13,854 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:13,854 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:13,855 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:13,855 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:13,855 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:19,295 [INFO] Script running with administrator privileges
+2025-05-19 18:25:19,295 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:19,295 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:19,295 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:19,296 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:19,296 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:19,297 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:23,324 [INFO] Script running with administrator privileges
+2025-05-19 18:25:23,325 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:23,325 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:23,325 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:23,326 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:23,326 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:23,326 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:27,385 [INFO] Script running with administrator privileges
+2025-05-19 18:25:27,385 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:27,385 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:27,385 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:27,386 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:27,386 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:27,386 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:31,532 [INFO] Script running with administrator privileges
+2025-05-19 18:25:31,533 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:31,533 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:31,533 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:31,534 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:31,534 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:31,534 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'
+2025-05-19 18:25:36,159 [INFO] Script running with administrator privileges
+2025-05-19 18:25:36,159 [INFO] Starting keyboard monitor...
+2025-05-19 18:25:36,159 [INFO] Script directory: H:\AutoDeckUIv1
+2025-05-19 18:25:36,159 [INFO] Looking for config file at: H:\AutoDeckUIv1\config.json
+2025-05-19 18:25:36,160 [INFO] Ensured log directory exists at H:\AutoDeckUIv1\logs
+2025-05-19 18:25:36,160 [INFO] Using log file at: H:\AutoDeckUIv1\logs\test_data\log.txt
+2025-05-19 18:25:36,160 [ERROR] Failed to create log file: [Errno 2] No such file or directory: 'H:\\AutoDeckUIv1\\logs\\test_data\\log.txt'

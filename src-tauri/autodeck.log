@@ -1,0 +1,6 @@
+2025-05-17 03:10:43,405 [INFO] Script started with arguments: ['test-arg']
+2025-05-17 03:10:43,405 [INFO] Executing command: test-arg
+2025-05-17 03:10:43,405 [ERROR] Unknown command: test-arg
+2025-05-17 03:10:57,743 [INFO] Script started with arguments: ['paste_message', 'message.txt']
+2025-05-17 03:10:57,743 [INFO] Executing command: paste_message
+2025-05-17 03:10:57,743 [INFO] Resolved path message.txt to H:\AutoDeckUIv1\message.txt
