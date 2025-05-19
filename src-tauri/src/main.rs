@@ -204,6 +204,28 @@ async fn stop_keyboard_monitor(state: tauri::State<'_, KeyboardMonitor>) -> Resu
     Ok(())
 }
 
+#[tauri::command]
+fn clear_processed_numbers() -> Result<(), String> {
+    // Determine workspace root (project root)
+    let current_dir = env::current_dir().map_err(|e| e.to_string())?;
+    let workspace_root = current_dir
+        .parent()
+        .map(|p| p.to_path_buf())
+        .unwrap_or(current_dir);
+
+    let log_path = workspace_root.join("logs").join("processed_numbers.txt");
+
+    // Ensure the logs directory exists
+    if let Some(parent) = log_path.parent() {
+        std::fs::create_dir_all(parent).map_err(|e| e.to_string())?;
+    }
+
+    // Truncate (or create) the log file to clear its contents
+    std::fs::write(&log_path, "").map_err(|e| e.to_string())?;
+
+    Ok(())
+}
+
 fn main() {
     tauri::Builder::default()
         .manage(KeyboardMonitor {
@@ -213,7 +235,8 @@ fn main() {
             run_python_script,
             start_keyboard_monitor,
             stop_keyboard_monitor,
-            get_app_dir
+            get_app_dir,
+            clear_processed_numbers
         ])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");

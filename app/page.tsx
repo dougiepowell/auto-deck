@@ -294,6 +294,27 @@ export default function Home() {
     }
   }
 
+  const clearLog = async () => {
+    try {
+      await invoke('clear_processed_numbers');
+      setLogEntries([]);
+      setProcessedCount(0);
+      toast({
+        title: "Success",
+        description: "Processed numbers log cleared successfully.",
+        duration: 3000,
+      });
+    } catch (error) {
+      console.error('Failed to clear log file:', error);
+      toast({
+        title: "Error",
+        description: "Failed to clear processed numbers log.",
+        variant: "destructive",
+        duration: 3000,
+      });
+    }
+  }
+
   return (
     <main className="min-h-screen bg-gradient-to-b from-pink-500 to-pink-600 p-4 md:p-8">
       <div className="max-w-6xl mx-auto">
@@ -530,7 +551,7 @@ export default function Home() {
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="pt-4">
-                  <LogDisplay entries={logEntries} />
+                  <LogDisplay entries={logEntries} onClear={clearLog} />
                 </CardContent>
               </Card>
             </TabsContent>
