@@ -14,7 +14,7 @@ import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/comp
 import Image from "next/image"
 import { PythonTest } from "@/components/PythonTest"
 import { getNextPhone, pasteMessage } from "@/lib/python"
-import { writeTextFile, readTextFile } from '@tauri-apps/api/fs'
+import { writeTextFile, readTextFile, createDir } from '@tauri-apps/api/fs'
 import { invoke } from '@tauri-apps/api/tauri'
 
 export default function Home() {
@@ -84,16 +84,39 @@ export default function Home() {
   useEffect(() => {
     const loadLogFile = async () => {
       try {
-        // Try to read the log file from the project root
-        const logContent = await readTextFile('logs/processed_numbers.txt');
-        const entries = logContent.split('\n').filter(line => line.trim());
-        setLogEntries(entries);
-        setProcessedCount(entries.length);
-        console.log('Loaded log entries:', entries);
+        // Get the app directory path
+        const appDir = await invoke('get_app_dir') as string;
+        const logDir = `${appDir}/logs`;
+        const logPath = `${logDir}/processed_numbers.txt`;
+        
+        // Ensure logs directory exists
+        await createDir(logDir, { recursive: true });
+        
+        try {
+          // Try to read the log file
+          const logContent = await readTextFile(logPath);
+          const entries = logContent.split('\n').filter(line => line.trim());
+          setLogEntries(entries);
+          setProcessedCount(entries.length);
+          console.log('Loaded log entries:', entries);
+        } catch (error: any) {
+          // If file doesn't exist, create it
+          if (error?.message?.includes('os error 2')) {
+            await writeTextFile(logPath, '');
+            setLogEntries([]);
+            setProcessedCount(0);
+          } else {
+            throw error;
+          }
+        }
       } catch (error) {
         console.error('Error loading log file:', error);
-        setLogEntries([]);
-        setProcessedCount(0);
+        toast({
+          title: "Error",
+          description: "Failed to access log file. Please restart the application.",
+          variant: "destructive",
+          duration: 5000,
+        });
       }
     };
 
@@ -166,14 +189,25 @@ export default function Home() {
     }
 
     try {
+      // Get the app directory path
+      const appDir = await invoke('get_app_dir') as string;
+      const logDir = `${appDir}/logs`;
+      const logPath = `${logDir}/processed_numbers.txt`;
+      const tempCsvPath = `${appDir}/temp_contacts.csv`;
+      
+      // Create log directory if it doesn't exist
+      await createDir(logDir, { recursive: true });
+      
       // Create temporary CSV file
       const csvContent = csvData.map(row => row.join(',')).join('\n');
-      await writeTextFile('contacts.csv', csvContent);
+      await writeTextFile(tempCsvPath, csvContent);
       
-      // Create log file if it doesn't exist
-      await writeTextFile('logs/processed_numbers.txt', '');
-      
-      const result = await getNextPhone('contacts.csv', 'logs/processed_numbers.txt', phoneColumn, currentIndex);
+      const result = await getNextPhone(
+        tempCsvPath,
+        logPath,
+        phoneColumn,
+        currentIndex
+      );
 
       if (result.status === 'error') {
         toast({
@@ -211,7 +245,7 @@ export default function Home() {
       console.error('Error:', error);
       toast({
         title: "Error",
-        description: "Failed to process next contact",
+        description: "Failed to process next contact. Check the console for details.",
         variant: "destructive",
         duration: 3000,
       });

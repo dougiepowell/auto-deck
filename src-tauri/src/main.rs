@@ -9,10 +9,23 @@ use tauri::command;
 use std::env;
 use std::sync::Mutex;
 use std::process::Child;
+use sysinfo::{Process, System, ProcessRefreshKind, ProcessesToUpdate};
+use std::ffi::OsStr;
 
 #[derive(Default)]
 struct KeyboardMonitor {
     process: Mutex<Option<Child>>,
+}
+
+#[command]
+fn get_app_dir() -> Result<String, String> {
+    let current_dir = env::current_dir().map_err(|e| e.to_string())?;
+    // If we're in src-tauri during dev, move one level up to project root
+    let workspace_root = current_dir
+        .parent()
+        .map(|p| p.to_path_buf())
+        .unwrap_or(current_dir);
+    Ok(workspace_root.to_string_lossy().to_string())
 }
 
 #[command]
@@ -97,6 +110,21 @@ async fn start_keyboard_monitor(
     _app_handle: tauri::AppHandle,
     state: tauri::State<'_, KeyboardMonitor>,
 ) -> Result<(), String> {
+    // Kill any old keyboard_monitor.py processes
+    let mut system = System::new_all();
+    system.refresh_processes_specifics(ProcessesToUpdate::All, true, ProcessRefreshKind::everything());
+    let python_exe = OsStr::new("python.exe");
+    for (pid, process) in system.processes() {
+        if process.name() == python_exe {
+            for cmd in process.cmd() {
+                if let Some(cmd_str) = cmd.to_str() {
+                    if cmd_str.contains("keyboard_monitor.py") {
+                        let _ = process.kill();
+                    }
+                }
+            }
+        }
+    }
     // Check if monitor is already running
     let process = state.process.lock().unwrap();
     if process.is_some() {
@@ -184,7 +212,8 @@ fn main() {
         .invoke_handler(tauri::generate_handler![
             run_python_script,
             start_keyboard_monitor,
-            stop_keyboard_monitor
+            stop_keyboard_monitor,
+            get_app_dir
         ])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
