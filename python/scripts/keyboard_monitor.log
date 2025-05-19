@@ -1594,3 +1594,173 @@ Ho...
 2025-05-19 21:44:38,533 [INFO] Ctrl+V simulated successfully
 2025-05-19 21:44:38,534 [INFO] Pasted phone number: +1122334455
 2025-05-19 22:01:11,498 [ERROR] Another monitor instance is running
+2025-05-19 22:01:45,947 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:01:45,948 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:01:45,949 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:01:45,950 [INFO] Found message with length: 79
+2025-05-19 22:01:45,950 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:01:45,967 [INFO] Text copied to clipboard successfully
+2025-05-19 22:01:46,468 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:01:46,471 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:01:46,472 [INFO] Message pasted successfully
+2025-05-19 22:01:47,556 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:01:47,557 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:01:47,558 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:01:47,558 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:01:47,559 [INFO] Found 3 contacts in CSV
+2025-05-19 22:01:47,559 [INFO] Found 0 processed numbers
+2025-05-19 22:01:47,560 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-19 22:01:47,561 [INFO] Selected phone number: +1234567890
+2025-05-19 22:01:47,561 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-19 22:01:47,578 [INFO] Text copied to clipboard successfully
+2025-05-19 22:01:48,086 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:01:48,089 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:01:48,089 [INFO] Pasted phone number: +1234567890
+2025-05-19 22:01:48,673 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:01:48,674 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:01:48,675 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:01:48,675 [INFO] Found message with length: 79
+2025-05-19 22:01:48,675 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:01:48,691 [INFO] Text copied to clipboard successfully
+2025-05-19 22:01:49,192 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:01:49,196 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:01:49,197 [INFO] Message pasted successfully
+2025-05-19 22:02:01,990 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:01,991 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:01,992 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:01,992 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:01,992 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:01,993 [INFO] Found 1 processed numbers
+2025-05-19 22:02:01,994 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-19 22:02:01,994 [INFO] Selected phone number: +0987654321
+2025-05-19 22:02:01,995 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-19 22:02:02,012 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:02,513 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:02,517 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:02,517 [INFO] Pasted phone number: +0987654321
+2025-05-19 22:02:03,106 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:03,106 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:03,107 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:03,107 [INFO] Found message with length: 79
+2025-05-19 22:02:03,107 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:03,119 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:03,620 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:03,624 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:03,625 [INFO] Message pasted successfully
+2025-05-19 22:02:04,133 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:04,134 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:04,135 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:04,135 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:04,136 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:04,136 [INFO] Found 2 processed numbers
+2025-05-19 22:02:04,138 [INFO] Successfully wrote phone number to log: +1122334455
+2025-05-19 22:02:04,138 [INFO] Selected phone number: +1122334455
+2025-05-19 22:02:04,138 [INFO] Attempting to copy text to clipboard: +1122334455...
+2025-05-19 22:02:04,154 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:04,656 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:04,659 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:04,660 [INFO] Pasted phone number: +1122334455
+2025-05-19 22:02:04,941 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:04,942 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:04,943 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:04,943 [INFO] Found message with length: 79
+2025-05-19 22:02:04,943 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:04,958 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:05,459 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:05,463 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:05,463 [INFO] Message pasted successfully
+2025-05-19 22:02:05,747 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:05,748 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:05,749 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:05,749 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:05,749 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:05,750 [INFO] Found 3 processed numbers
+2025-05-19 22:02:05,750 [INFO] All contacts have been processed
+2025-05-19 22:02:05,750 [INFO] No more phone numbers to paste
+2025-05-19 22:02:06,723 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:06,724 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:06,725 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:06,725 [INFO] Found message with length: 79
+2025-05-19 22:02:06,725 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:06,744 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:07,245 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:07,248 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:07,248 [INFO] Message pasted successfully
+2025-05-19 22:02:07,650 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:07,651 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:07,652 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:07,652 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:07,653 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:07,653 [INFO] Found 3 processed numbers
+2025-05-19 22:02:07,653 [INFO] All contacts have been processed
+2025-05-19 22:02:07,654 [INFO] No more phone numbers to paste
+2025-05-19 22:02:08,583 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:08,584 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:08,585 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:08,585 [INFO] Found message with length: 79
+2025-05-19 22:02:08,585 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:08,600 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:09,101 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:09,104 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:09,104 [INFO] Message pasted successfully
+2025-05-19 22:02:09,689 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:09,690 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:09,692 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:09,692 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:09,692 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:09,693 [INFO] Found 3 processed numbers
+2025-05-19 22:02:09,694 [INFO] All contacts have been processed
+2025-05-19 22:02:09,694 [INFO] No more phone numbers to paste
+2025-05-19 22:02:12,978 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:12,979 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:12,979 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:12,980 [INFO] Found message with length: 79
+2025-05-19 22:02:12,980 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:12,993 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:13,494 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:13,497 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:13,497 [INFO] Message pasted successfully
+2025-05-19 22:02:14,402 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:14,403 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:14,404 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:14,404 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:14,405 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:14,405 [INFO] Found 0 processed numbers
+2025-05-19 22:02:14,406 [INFO] Successfully wrote phone number to log: +1234567890
+2025-05-19 22:02:14,406 [INFO] Selected phone number: +1234567890
+2025-05-19 22:02:14,406 [INFO] Attempting to copy text to clipboard: +1234567890...
+2025-05-19 22:02:14,423 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:14,924 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:14,927 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:14,928 [INFO] Pasted phone number: +1234567890
+2025-05-19 22:02:16,136 [INFO] Ctrl+Alt+2 detected
+2025-05-19 22:02:16,137 [INFO] Resolved path H:\AutoDeckUIv1\test_data\message.txt to H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:16,138 [INFO] Looking for message file at: H:\AutoDeckUIv1\test_data\message.txt
+2025-05-19 22:02:16,138 [INFO] Found message with length: 79
+2025-05-19 22:02:16,138 [INFO] Attempting to copy text to clipboard: Hi there! This is a test message from AutoDeck.
+Ho...
+2025-05-19 22:02:16,158 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:16,659 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:16,664 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:16,665 [INFO] Message pasted successfully
+2025-05-19 22:02:17,504 [INFO] Ctrl+Alt+1 detected
+2025-05-19 22:02:17,505 [INFO] Resolved path H:\AutoDeckUIv1\test_data\contacts.csv to H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:17,505 [INFO] Resolved path H:\AutoDeckUIv1\logs\processed_numbers.txt to H:\AutoDeckUIv1\logs\processed_numbers.txt
+2025-05-19 22:02:17,506 [INFO] Looking for CSV file at: H:\AutoDeckUIv1\test_data\contacts.csv
+2025-05-19 22:02:17,506 [INFO] Found 3 contacts in CSV
+2025-05-19 22:02:17,507 [INFO] Found 1 processed numbers
+2025-05-19 22:02:17,508 [INFO] Successfully wrote phone number to log: +0987654321
+2025-05-19 22:02:17,508 [INFO] Selected phone number: +0987654321
+2025-05-19 22:02:17,509 [INFO] Attempting to copy text to clipboard: +0987654321...
+2025-05-19 22:02:17,526 [INFO] Text copied to clipboard successfully
+2025-05-19 22:02:18,027 [INFO] Attempting to simulate Ctrl+V
+2025-05-19 22:02:18,030 [INFO] Ctrl+V simulated successfully
+2025-05-19 22:02:18,030 [INFO] Pasted phone number: +0987654321
+2025-05-19 22:07:21,215 [ERROR] Another monitor instance is running
