@@ -12,7 +12,6 @@ import { ScriptDisplay } from "@/components/script-display"
 import { LogDisplay } from "@/components/log-display"
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
 import Image from "next/image"
-import { PythonTest } from "@/components/PythonTest"
 import { getNextPhone, pasteMessage } from "@/lib/python"
 import { writeTextFile, readTextFile, createDir } from '@tauri-apps/api/fs'
 import { invoke } from '@tauri-apps/api/tauri'
@@ -318,9 +317,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-pink-500 to-pink-600 p-4 md:p-8">
       <div className="max-w-6xl mx-auto">
-        <div className="mb-8 bg-white rounded-lg shadow-lg">
-          <PythonTest />
-        </div>
+        {/* Removed PythonTest banner */}
 
         <div className="flex flex-col items-center justify-center mb-8">
           <div className="w-40 h-40 md:w-52 md:h-52 relative mb-4">
